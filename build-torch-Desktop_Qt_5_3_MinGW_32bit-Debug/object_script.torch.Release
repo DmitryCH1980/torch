@@ -1,0 +1,12 @@
+INPUT(
+./release\CSetup.o
+./release\CThread.o
+./release\clamp.o
+./release\main.o
+./release\CMainWindow.o
+./release\qrc_Resourse.o
+./release\moc_CMainWindow.o
+./release\moc_CSetup.o
+./release\moc_CThread.o
+./release\moc_clamp.o
+);

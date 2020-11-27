@@ -1,0 +1,12 @@
+INPUT(
+./debug\CSetup.o
+./debug\CThread.o
+./debug\clamp.o
+./debug\main.o
+./debug\CMainWindow.o
+./debug\qrc_Resourse.o
+./debug\moc_CMainWindow.o
+./debug\moc_CSetup.o
+./debug\moc_CThread.o
+./debug\moc_clamp.o
+);
