@@ -7,7 +7,7 @@
 #include <QLabel>
 #include <QGridLayout>
 #include <QCloseEvent>
-
+// Окно настроек
 class CSetup : public QDialog
 {
     Q_OBJECT
