@@ -1,5 +1,5 @@
 #include "clamp.h"
-
+// Хрену не понравилось,то что копипаст данного класса
 CLamp::CLamp(quint16 mID, QWidget* pwgt, Qt::WindowFlags f) : QWidget(pwgt, f)
 {
     this->setFixedSize(200,200);                                         // Установка постоянного размера лампочки
